@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kiu:home|Door43 (kiu)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kiu|d43-kiu repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kiu/archive/master.zip|d43-kiu.zip]]
+
+**Recent Changes**
+{{changes>ns = kiu}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kiu|Ethnologue data]]
+
