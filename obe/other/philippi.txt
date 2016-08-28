@@ -1,0 +1,31 @@
+====== Philippi ======
+
+
+===== Facts: =====
+
+Philippi was a major city and Roman colony located in Macedonia in the northern part of ancient Greece.
+
+    * Paul and Silas traveled to Philippi to preach about Jesus to the people there.
+    * While in Philippi, Paul and Silas were arrested, but God miraculously freed them.
+    * The New Testament book of Philippians is a letter that the apostle Paul wrote to the Christians in the church at Philippi.
+    * Note that this is a different city from Caesarea Philippi which was located in northeastern Israel near Mount Hermon.
+ 
+(See also: [[:kiu:obe:other:caesarea]], [[:kiu:obe:kt:christian]], , [[:kiu:obe:kt:church]], [[:kiu:obe:other:macedonia]], [[:kiu:obe:other:paul]], [[:kiu:obe:other:silas]])
+
+http://catholic-resources.org/Bible/NT-Statistics-Greek.htm
+
+===== Bible References: =====
+
+{{topic>:en:bible?philippi&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+    * **[[:kiu:obs:notes:frames:47-01|[47-01]]]** One day, Paul and his friend Silas went to the town of **Philippi** to proclaim the good news about Jesus. 
+    * **[[:kiu:obs:notes:frames:47-13|[47-13]]]** The next day the leaders of the city released Paul and Silas from prison and asked them to leave **Philippi**. 
+
+~~DISCUSSION~~
+
+
+{{tag>publish ktobs}}
+
+~~NOCACHE~~

@@ -1,0 +1,36 @@
+======  Nile River, River of Egypt ======
+
+
+===== Facts: =====
+
+The Nile is a very long and wide river in northeastern Africa. It is especially well-known as the main river of Egypt.
+
+  * The Nile River flows north through Egypt and into the Mediterranean Sea.
+  * Crops grow well in the fertile land on either side of the Nile River.
+  * Most Egyptians live near the Nile River since it is an important source of water and food crops.
+  * The Israelites lived in the land of Goshen which was very fertile because it was located along the Nile River.
+  * When Moses was a baby, his parents placed him in a basket among the reeds of the Nile to hide him from Pharaoh's men.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names]])
+
+(See: [[:kiu:obe:other:egypt]], [[:kiu:obe:other:goshen]], [[:kiu:obe:other:moses]])
+
+
+===== Bible References: =====
+
+
+{{topic>:en:bible?nileriver&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  ***[[:kiu:obs:notes:frames:08-04|[08-04]]]** Egypt was a large, powerful country located along the **Nile River**.
+  ***[[:kiu:obs:notes:frames:09-04|[09-04]]]** Pharaoh saw that the Israelites were having many babies, so he ordered his people to kill all Israelite baby boys by throwing them into the **Nile River**.
+  ***[[:kiu:obs:notes:frames:09-06|[09-06]]]** When the boy's parents could no longer hide him, they put him in a floating basket among the reeds along the edge of the **Nile River** in order to save him from being killed. 
+  ***[[:kiu:obs:notes:frames:10-03|[10-03]]]** God turned the **Nile River** into blood, but Pharaoh still would not let the Israelites go.
+
+~~DISCUSSION~~
+
+
+{{tag>publish ktobs}}
+
+~~NOCACHE~~

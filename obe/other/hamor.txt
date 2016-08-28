@@ -1,0 +1,21 @@
+====== Hamor ======
+
+===== Facts: =====
+
+Hamor was a Canaanite man living in the city of Shechem when Jacob and his family were living in nearby Succoth. He was a Hivite.
+
+  * Jacob bought a family burial ground from Hamor's sons.
+  * While they were there, Hamor's son Shechem raped Jacob's daughter Dinah.
+  * Dinah's brothers took revenge on Hamor's family and killed all the men in the city of Shechem.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:other:canaan]], [[:kiu:obe:other:hivite]], [[:kiu:obe:other:jacob]], [[:kiu:obe:other:shechem]], [[:kiu:obe:other:succoth]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?hamor&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

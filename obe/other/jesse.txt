@@ -1,0 +1,19 @@
+====== Jesse ======
+
+===== Facts: =====
+
+Jesse was the father of King David, and the grandson of Ruth and Boaz.
+
+  * Jesse was from the tribe of Judah.
+  * He was an "Ephrathite," which means he was from the town of Ephrathah (Bethlehem).
+  * The prophet Isaiah prophesied about a "shoot" or "branch" that would come from the "root of Jesse" and bear fruit. This refers to Jesus who was a descendant of Jesse.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:other:bethlehem]], [[:kiu:obe:other:boaz]], [[:kiu:obe:other:descendant]], [[:kiu:obe:kt:fruit]], [[:kiu:obe:kt:jesus]], [[:kiu:obe:other:king]], [[:kiu:obe:kt:prophet]], [[:kiu:obe:other:ruth]], [[:kiu:obe:other:12tribesofisrael]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?jesse&nocomments}}~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

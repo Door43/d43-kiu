@@ -1,0 +1,22 @@
+====== Hoshea ======
+
+===== Facts: =====
+
+Hoshea was the name of a king of Israel and several other men in the Old Testament.
+
+  * Hoshea son of Alah was a king of Israel for nine years during part of the reigns of Ahaz and Hezekiah, kings of Judah.
+  * Joshua son of Nun was formerly named Hoshea. Moses changed Hoshea's name to Joshua before sending him and eleven other men to spy out the land of the Canaanites.
+  * After Moses died, Joshua led the people of Israel to take possession of the land of Canaan.
+  * A different man named Hoshea was a son of Azaziah and was one of the leaders of the Ephraimites.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:kiu:obe:other:ahaz]], [[:kiu:obe:other:canaan]], [[:kiu:obe:other:ephraim]], [[:kiu:obe:other:hezekiah]], [[:kiu:obe:other:joshua]], [[:kiu:obe:other:moses]])
+
+===== Bible References: =====
+
+{{topic>Hoshea&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

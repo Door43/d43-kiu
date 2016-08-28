@@ -1,0 +1,34 @@
+====== Lazarus ======
+
+
+===== Facts: =====
+
+Lazarus and his sisters, Mary and Martha, were special friends of Jesus. He often stayed with them in their home in Bethany.
+
+  * Lazarus is best known for the fact that Jesus raised him from the dead after he had been buried in a tomb for several days.
+  * The Jewish leaders were angry and jealous that Jesus had done this miracle and they tried to find a way to kill both Jesus and Lazarus.
+  * Jesus also told a parable about a poor beggar and a rich man in which the beggar was named "Lazarus."
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names]])
+
+(See also: [[:kiu:obe:other:beg]], [[:kiu:obe:other:jewishleaders]], [[:kiu:obe:other:martha]], [[:kiu:obe:other:mary]], [[:kiu:obe:kt:raise]])
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?lazarus&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:kiu:obs:notes:frames:37-01|[37-01]]]** One day, Jesus received a message that **Lazarus**  was very sick. **Lazarus**  and his two sisters, Mary and Martha, were close friends of Jesus.
+  * **[[:kiu:obs:notes:frames:37-02|[37-02]]]** Jesus said, "Our friend **Lazarus**  has fallen asleep, and I must wake him."
+  * **[[:kiu:obs:notes:frames:37-03|[37-03]]]** Jesus' disciples replied, "Master, if **Lazarus**  is sleeping, then he will get better." Then Jesus told them plainly, "**Lazarus**  is dead."
+  * **[[:kiu:obs:notes:frames:37-04|[37-04]]]** When Jesus arrived at **Lazarus'**  hometown, **Lazarus**  had already been dead for four days.
+  * **[[:kiu:obs:notes:frames:37-06|[37-06]]]** Jesus asked them, "Where have you put **Lazarus**?"
+  * **[[:kiu:obs:notes:frames:37-09|[37-09]]]** Then Jesus shouted, "**Lazarus**, come out!"
+  * **[[:kiu:obs:notes:frames:37-10|[37-10]]]** So **Lazarus**  came out! He was still wrapped in grave clothes.
+  * **[[:kiu:obs:notes:frames:37-11|[37-11]]]** But the religious leaders of the Jews were jealous, so they gathered together to plan how they could kill Jesus and **Lazarus**.
+
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~

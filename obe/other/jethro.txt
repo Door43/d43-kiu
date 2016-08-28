@@ -1,0 +1,25 @@
+====== Jethro, Reuel ======
+
+===== Facts: =====
+
+The names "Jethro" and "Reuel" both refer to the father of Moses' wife, Zipporah. There were also two other men named "Reuel" in the Old Testament.
+
+  * When Moses was a shepherd in the land of Midian, he married the daughter of a Midianite man named Reuel.
+  * Later on Reuel is referred to as "Jethro, the priest of Midian."  It could be that "Reuel" was his clan name.
+  * When God spoke to Moses from a flaming bush, Moses was tending Jethro's sheep, 
+  * Some time later, after God had rescued the Israelites from Egypt, Jethro came out to the Israelites in the wilderness and gave Moses good advice about judging the affairs of the people.
+  * He believed in God when he heard about all the miracles God had done for the Israelites in Egypt.
+  * One of Esau's sons was named Reuel.
+  * Another man named Reuel is mentioned in the genealogy of the Israelites who returned to resettle in Judah after their captivity in Babylon had ended. 
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe;other:babylon]], [[:kiu:obe:other:captive]], [[:kiu:obe:other:clan]], [[:kiu:obe:other:desert]], [:kiu:obe:other:egypt]],[[:kiu:obe:other:esau]], [ [[:kiu:obe:other:miracle]], [[:kiu:obe:other:moses]], [:kiu:obe:other:wilderness]])
+
+===== Bible References: =====
+
+{{topic>jethro&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,45 @@
+====== prophet, prophecy, prophesy, seer, prophetess ======
+
+===== Definition: =====
+
+A "prophet" is a man who speaks God's messages to people. A woman who does this is called a  "prophetess." 
+
+  * An older term for a  prophet was "seer" or "someone who sees."
+  * However, sometimes the term "seer" refers to a diviner or other false prophet.
+  * Often prophets warned people to turn away from their sins and obey God.
+  * A "prophecy" is the message that the prophet speaks. To "prophesy" means to speak God's messages.
+  * Often the message of a prophecy was about something that would happen in the future.
+  * Many prophecies in the Old Testament have already been fulfilled.
+  * In the Bible the collection of books written by prophets are sometimes referred to as "the prophets."
+  * For example, the phrase, "the law and the prophets" is a way of referring to all of the Hebrew scriptures, which are also known as the "Old Testament."
+
+===== Translation Suggestions: =====
+
+  * The term "prophet" could be translated as "God's spokesman" or "man who speaks for God" or "man who speaks God's messages."
+  * Ways to translate "prophecy" could include, "message from God" or "prophet message."
+  * Depending on the context, the term "prophesy" could be translated as "speak words from God" or "tell God's message about future events."
+  * The term "prophetess" could be translated as, "spokeswoman for God" or "woman who speaks for God" or "woman who speaks God's messages."
+  * The figurative expression, "law and the prophets" could also be translated as, "the books of the law and of the prophets" or "everything written about God and his people, including God's laws and what his prophets preached." (See: [[:kiu:ta:vol2:translate:figs_synecdoche]])
+ 
+
+(See also: [[:kiu:obe:other:divination]], [[:kiu:obe:other:falseprophet]], [[:kiu:obe:kt:fulfill]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?prophet&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:kiu:obs:notes:frames:12-12|[12-12]]]** When the Israelites saw that the Egyptians were dead, they trusted in God and believed that Moses was a **prophet**  of God.
+  * **[[:kiu:obs:notes:frames:17-13|[17-13]]]** God was very angry about what David had done, so he sent the **prophet**  Nathan to tell David how evil his sin was.
+  * **[[:kiu:obs:notes:frames:19-01|[19-01]]]** Throughout the history of the Israelites, God sent them **prophets**. The **prophets**  heard messages from God and then told the people God's messages.
+  * **[[:kiu:obs:notes:frames:19-06|[19-06]]]** All the people of the entire kingdom of Israel, including the 450 **prophets**  of Baal, came to Mount Carmel.
+  * **[[:kiu:obs:notes:frames:19-17|[19-17]]]** Most of the time, the people did not obey God. They often mistreated the **prophets**  and sometimes even killed them.
+  * **[[:kiu:obs:notes:frames:21-09|[21-09]]]** The **prophet**  Isaiah **prophesied**  that the Messiah would be born from a virgin.
+  * **[[:kiu:obs:notes:frames:43-05|[43-05]]]**"This fulfills the **prophecy**  made by the **prophet**  Joel in which God said, 'In the last days, I will pour out my Spirit.'"
+  * **[[:kiu:obs:notes:frames:43-07|[43-07]]]**"This fulfills the **prophecy**  which says, 'You will not let your Holy One rot in the grave.'"
+  * **[[:kiu:obs:notes:frames:48-12|[48-12]]]** Moses was a great **prophet**  who proclaimed the word of God. But Jesus is the greatest **prophet**  of all. He is the Word of God.
+  *
+~~DISCUSSION~~{{tag>publish ktobs review}}
+
+~~NOCACHE~~

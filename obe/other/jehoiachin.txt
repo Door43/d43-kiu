@@ -1,0 +1,22 @@
+====== Jehoiachin ======
+
+===== Facts: =====
+
+Jehoiachin was a king who ruled over the kingdom of Judah.
+
+  * Jehoiachin became king when he was 18 years old. He only reigned three months and after that he was captured by the Babylonian army and taken to Babylon.
+  * During his short reign, Jehoiachin did evil things like his grandfather King Manasseh and his father King Jehoiakim had done.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names]])
+
+(See also:   [[:kiu:obe:other:babylon]], [[:kiu:obe:other:jehoiakim]],  [[:kiu:obe:other:kingdomofjudah]], [[:kiu:obe:other:manasseh]])
+
+===== Bible References: =====
+
+{{topic>jehoiachin&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

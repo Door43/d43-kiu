@@ -1,0 +1,22 @@
+====== Seth ======
+
+===== Facts: =====
+
+In the book of Genesis, Seth was the third son of Adam and Eve.
+
+  * Eve said that Seth was given to her in place of her son Abel, who was murdered by his brother Cain.
+  * Noah was one of Seth's descendants, so everyone who has lived since the time of the Flood is also a descendant of Seth.
+  * Seth and his family were the first people to "call on the name of the Lord."
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:other:abel]], [[:kiu:obe:other:cain]], [[:kiu:obe:kt:call]], [[:kiu:obe:other:descendant]],  [[:kiu:obe:other:father]], [[:kiu:obe:other:flood]], [[:kiu:obe:other:noah]])
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?Seth&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

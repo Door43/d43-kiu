@@ -1,0 +1,24 @@
+====== Obadiah ======
+
+===== Facts: =====
+
+Obadiah was an Old Testament prophet who prophesied against the people of Edom, who were the descendants of Esau. There were also many other men named Obadiah in the Old Testament.
+
+  * The book of Obadiah is the shortest book in the Old Testament and tells a prophecy that Obadiah received through a vision from God.
+  * It is not clear when Obadiah lived and prophesied. It may have been during the reigns of Jehoram, Ahaziah, Joash, and Athaliah, kings of Judah. The prophets Daniel, Ezekiel, and Jeremiah would also have been prophesying during part of this time.
+  * Obadiah may also have lived at a later time period, during the reign of King Zedekiah and the Babylonian captivity. 
+  * Other men named Obadiah included a descendant of Saul; a Gadite who became one of David's men; a palace administrator for King Ahab; an official of King Jehoshaphat; a man who helped with repairs to the temple during the time of King Josiah; a Levite who was also a gatekeeper during the time of Nehemiah.
+  * It could be that the writer of the book of Obadiah was one of these men.
+
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also:  [[:kiu:obe:other:ahab]],  [[:kiu:obe:other:babylon]], [[:kiu:obe:other:david]], [[:kiu:obe:other:edom]], [[:kiu:obe:other:esau]], [[:kiu:obe:other:ezekiel]], [[:kiu:obe:other:daniel]],  [[:kiu:obe:other:gad]],   [[:kiu:obe:other:jehoshaphat]], [[:kiu:obe:other:josiah]],  [[:kiu:obe:other:levite]],  [[:kiu:obe:other:saul]], [[:kiu:obe:other:zedekiah]])
+
+===== Bible References: =====
+
+{{topic>obadiah&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

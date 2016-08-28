@@ -1,0 +1,31 @@
+====== sackcloth ======
+
+===== Definition: =====
+
+Sackcloth was a coarse, scratchy type of cloth that was made out of goat hair or camel hair.
+
+  * Clothing made out of sackcloth was uncomfortable for the person wearing it. It was worn as a way of showing mourning, grief, or humble repentance.
+  * The phrase "sackcloth and ashes" was a common term referring to a traditional expression of grief and repentance.
+
+===== Translation Suggestions =====
+
+  * This term could also be translated as, "coarse cloth from animal hair" or "clothes made of goat hair" or "rough, scratchy clothing."
+  * Other ways to translate this term could include, "rough, scratchy mourning clothes."
+  * The phrase "sit in sackcloth and ashes" could be translated as, "show mourning and humility by wearing scratchy cloth and sitting in ashes."
+
+
+(See: [[:kiu:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+
+(See: [[:kiu:obe:other:ash]], [[:kiu:obe:other:camel]], [[:kiu:obe:other:goat]], [[:kiu:obe:other:humble]], [[:kiu:obe:other:mourn]], [[:kiu:obe:kt:repent]], [[:kiu:obe:kt:sign]])
+
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?sackcloth&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,32 @@
+====== Hagar ======
+
+
+===== Facts: =====
+
+Hagar was an Egyptian woman who was Sarai's personal slave.
+
+  * When Sarai was not able to bear children, she gave Hagar to her husband Abram to have a child by him.
+  * Hagar conceived and gave birth to Abram's son, Ishmael.
+  * God watched over Hagar when she was in distress in the desert and promised to bless her descendants.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names]])
+
+(See also: [[:kiu:obe:other:abraham]], [[:kiu:obe:other:descendant]], [[:kiu:obe:other:ishmael]], [[:kiu:obe:other:sarah]], [[:kiu:obe:other:servant]])
+
+
+===== Bible References: =====
+
+
+{{topic>:en:bible?Hagar&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  ***[[:kiu:obs:notes:frames:05-01|[05-01]]]** So Abram's wife, Sarai, said to him, "Since God has not allowed me to have children and now I am too old to have children, here is my servant, **Hagar**. Marry her also so she can have a child for me."
+  ***[[:kiu:obs:notes:frames:05-02|[05-02]]]** **Hagar** had a baby boy, and Abram named him Ishmael.
+
+~~DISCUSSION~~
+
+
+{{tag>publish ktobs}}
+
+~~NOCACHE~~

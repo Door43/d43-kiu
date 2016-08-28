@@ -1,0 +1,25 @@
+====== snow ======
+
+===== Facts: =====
+
+The term "snow" refers to white flakes of frozen water that fall from clouds in places where the air temperature is cold.
+
+  * Snow falls in places of higher elevation in Israel, but may not always stay on the ground very long before melting. The peaks of mountains tend to have snow that lasts longer. One example of this is the Bible's mention of snow on Mount Lebanon. 
+  * Something that is white is often compared to the color of snow, as when Jesus' clothing or hair is described as being "white as snow." 
+  * The whiteness of snow also symbolizes being pure and clean. For example, the statement that our "sins will be as white as snow" means that God completely cleanses his people from their sins.
+  * Some languages might refer to snow as "frozen rain" or "flakes of ice" or "frozen flakes."
+  * "Snow water" refers to the water that comes from melted snow.
+
+(See: [[:kiu:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:kiu:obe:other:lebanon]], [[:kiu:obe:kt:purify]])
+
+===== Bible References: =====
+
+{{topic>snow&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

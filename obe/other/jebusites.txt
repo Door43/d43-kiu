@@ -1,0 +1,20 @@
+====== Jebusites, Jebus ======
+
+===== Facts: =====
+
+The Jebusites were a people group living in the land of Canaan. They were descended from Ham's son Canaan.
+
+  * The Jebusites lived in the city of Jebus, whose name was later changed to Jerusalem when King David conquered it.
+  * Melchizedek, the king of Salem, was probably of Jebusite origin.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:other:canaan]], [[:kiu:obe:other:ham]], [[:kiu:obe:other:jerusalem]], [[:kiu:obe:other:melchizedek]])
+
+===== Bible References: =====
+
+{{topic>jebusites&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,21 @@
+====== Enoch ======
+
+===== Facts: =====
+
+Enoch is the name of two men in the Old Testament.
+
+  * One man named Enoch was descended from Seth. He was the great grandfather of Noah.
+  * This Enoch had a close relationship with God and when he was 365 years old, God took him to heaven without dying.
+  * A different man named Enoch was a son of Cain.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:other:cain]], [[noah|Noah]], [[:kiu:obe:other:seth]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?enoch&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,21 @@
+====== Joram ======
+
+===== Facts: =====
+
+Joram, also known as Jehoram, was a king of Israel, the son of Ahab and Jezebel.
+
+  * King Joram reigned at the same time as a different Jehoram, who was king of Judah.
+  * Joram was an evil king who worshiped false gods and also caused Israel to sin.
+  * A son of King Tou of Hamath was also named "Joram."
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also:  [[:kiu:obe:other:ahab]], [[:kiu:obe:other:hamath]], [[:kiu:obe:other:jehoram]],  [[:kiu:obe:other:jezebel]], [[:kiu:obe:other:kingdomofjudah]])
+
+===== Bible References: =====
+
+{{topic>Joram&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish review}}

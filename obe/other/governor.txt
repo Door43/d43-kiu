@@ -1,0 +1,23 @@
+====== governor, govern, proconsul ======
+
+===== Definition: =====
+
+A governor is a person who rules over a state, region, or territory. The word "govern" means to guide, lead, or manage people.
+
+  * In Bible times, governors were appointed by a king or emperor and were under his authority.
+  * They were under the authority of that king or emperor.
+  * Sometimes in the Bible the title "proconsul" is used for a person who governs. 
+
+===== Translation Suggestions: =====
+
+  * The word "governor" can also be translated as "ruler" or "overseer" or "regional leader" or "one who rules over a small territory."
+  * Depending on the context, the term "govern" could be translated as, "rule over" or "lead" or "manage" or supervise."
+  * Since a governor was under the authority of a king or emperor and had less power and importance than those rulers, this term should be translated differently than those terms.
+
+(See also: [[:kiu:obe:kt:authority]], [[:kiu:obe:other:king]], [[:kiu:obe:kt:power]], [[:kiu:obe:other:ruler]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?governor&nocomments}}~~DISCUSSION~~{{tag>publish review}}
+
+~~NOCACHE~~

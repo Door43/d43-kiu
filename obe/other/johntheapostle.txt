@@ -1,0 +1,36 @@
+====== John (the apostle) ======
+
+
+===== Facts: =====
+
+John was one of Jesus' twelve apostles and one of Jesus' closest friends. 
+
+  * John and his brother James were the sons of a fisherman named Zebedee.
+  * In the gospel that he wrote about Jesus' life, John referred to himself as "the disciple whom Jesus loved." This seems to indicate that John was an especially close friend to Jesus.
+  * The apostle John wrote five of the books in the New Testament: the gospel of John, the Revelation of Jesus Christ, and three letters written to other believers.
+  * Note that the apostle John was a different person than John the Baptist.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names]])
+
+(See also: [[:kiu:obe:kt:apostle]], [[:kiu:obe:kt:reveal]], [[:kiu:obe:other:jamessonofzebedee]], [[:kiu:obe:other:johnthebaptist]], [[:kiu:obe:other:zebedee]])
+
+
+===== Bible References: =====
+
+
+{{topic>:en:bible?johntheapostle&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  ***[[:kiu:obs:notes:frames:36-01|[36-01]]]** One day, Jesus took three of his disciples, Peter, James, and **John** with him. (The disciple named **John** was not the same person who baptized Jesus.) They went up on a high mountain by themselves.\\
+  ***[[:kiu:obs:notes:frames:44-01|[44-01]]]** One day, Peter and **John** were going to the Temple. As they approached the Temple gate, they saw a crippled man who was begging for money.\\
+  ***[[:kiu:obs:notes:frames:44-06|[44-06]]]** The leaders of the Temple were very upset by what Peter and **John** were saying. So they arrested them and put them into prison.\\
+  ***[[:kiu:obs:notes:frames:44-07|[44-07]]]** The next day, the Jewish leaders brought Peter and **John** to the high priest and the other religious leaders. They asked Peter and **John**, "By what power did you heal this crippled man?"\\
+  ***[[:kiu:obs:notes:frames:44-09|[44-09]]]** The leaders were shocked that Peter and **John** spoke so boldly because they could see that these men were ordinary men who were uneducated. But then they remembered that these men had been with Jesus. After they threatened Peter and **John**, they let them go.
+
+~~DISCUSSION~~
+
+
+{{tag>publish ktobs}}
+
+~~NOCACHE~~

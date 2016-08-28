@@ -1,0 +1,31 @@
+====== Jeremiah ======
+
+
+===== Facts: =====
+
+Jeremiah was a prophet of God in the kingdom of Judah. The Old Testament book of Jeremiah contains his prophecies.
+
+  * Like most of the prophets, Jeremiah often had to warn the people of Israel that God was going to punish them for their sins.
+  * Jeremiah prophesied that the Babylonians would capture Jerusalem, which made some of the people of Judah angry. So they put him in a deep, dry well and left him there to die. But the king of Judah ordered his servants to rescue Jeremiah from the well.
+  * Jeremiah wrote that he wished his eyes could be a "fountain of tears," to express his deep sadness over the rebellion and sufferings of his people.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names]])
+
+(See also: [[:kiu:obe:other:babylon]], [[:kiu:obe:other:kingdomofjudah]], [[:kiu:obe:kt:prophet]], [[:kiu:obe:other:rebel]], [[:kiu:obe:kt:suffer]], [[:kiu:obe:other:well]])
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?jeremiah&nocomments}}
+
+
+===== Examples from the Bible stories: =====
+
+  ***[[:kiu:obs:notes:frames:19-17|[19-17]]]** Once, the prophet **Jeremiah** was put into a dry well and left there to die. He sank down into the mud that was in the bottom of the well, but then the king had mercy on him and ordered his servants to pull **Jeremiah** out of the well before he died.
+  ***[[:kiu:obs:notes:frames:21-05|[21-05]]]** Through the prophet **Jeremiah**, God promised that he would make a New Covenant, but not like the covenant God made with Israel at Sinai. 
+
+~~DISCUSSION~~
+
+{{tag>publish ktobs}}
+
+~~NOCACHE~~

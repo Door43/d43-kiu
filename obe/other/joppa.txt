@@ -1,0 +1,21 @@
+====== Joppa ======
+
+===== Facts: =====
+
+In Bible times, the city of Joppa was an important commercial seaport located on the Mediterranean Sea, south of the Plain of Sharon.
+
+  * The ancient site of Joppa is the present-day city of Jaffa, which is now part of the city of Tel Aviv.
+  * In the Old Testament, Joppa was the city where Jonah got on a boat going to Tarshish.
+  * In the New Testament, a Christian woman named Tabitha died in Joppa and Peter brought her back to life.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:other:mediterranean]], [[:kiu:obe:other:jerusalem]], [[:kiu:obe:other:sharon]], [[:kiu:obe:other:tarshish]]) 
+
+===== Bible References: =====
+
+{{topic>:en:bible?joppa&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

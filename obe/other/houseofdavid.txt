@@ -1,0 +1,25 @@
+====== house of David ======
+
+===== Facts: =====
+
+The idiom "house of David" refers to the family or descendants of King David. 
+
+  * This could also be translated as, "descendants of David" or "family of David" or "King David's clan."
+  * Because Jesus was descended from David, he was part of the "house of David."
+  * Sometimes "house of David" or "household of David" refers to the people in David's family who were still living.
+  * Other times this term is more general and refers to all his descendants, including those who had already died.
+
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names]])
+
+(See also: [[:kiu:obe:other:david]], [[:kiu:obe:other:descendant]],[[:kiu:obe:other:house]], [[:kiu:obe:kt:jesus]], [[:kiu:obe:other:king]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?houseofdavid&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

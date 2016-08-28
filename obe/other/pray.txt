@@ -1,0 +1,38 @@
+====== pray, prayer ======
+
+
+===== Definition: =====
+
+The terms "pray" and "prayer" refer to talking with God. This term is also used to refer to people trying to talk to a false god.
+
+  * People can pray silently, talking to God with their thoughts or they can pray aloud, speaking to God with their voice. Sometimes prayers are written down, such as when David wrote his prayers in the book of Psalms.
+  * Prayer can include asking God for mercy, for help with a problem, for wisdom in making decisions.
+  * Often people ask God to heal people who are sick or who need his help in other ways. 
+  * People also thank and praise God when they are praying to him.
+  * Praying includes confessing our sins to God and asking him to forgive us.
+  * Talking to God is sometimes called "communing" with him as our spirit communicates with his spirit, sharing our emotions and enjoying his presence.
+  * This term could be translated as "talking to God" or "communicating with God." The translation of this term should be able to include praying that is silent.
+
+(See: [[:kiu:obe:kt:falsegod]], [[:kiu:obe:kt:forgive]], [[:kiu:obe:other:praise]])
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?pray&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  ***[[:kiu:obs:notes:frames:06-05|[06-05]]]**  Isaac **prayed** for Rebekah, and God allowed her to get pregnant with twins.
+  ***[[:kiu:obs:notes:frames:13-12|[13-12]]]**  But Moses **prayed** for them, and God listened to his **prayer** and did not destroy them.
+  ***[[:kiu:obs:notes:frames:19-08|[19-08]]]**  Then the prophets of Baal **prayed** to Baal, "Hear us, O Baal!"
+  ***[[:kiu:obs:notes:frames:21-07|[21-07]]]**  Priests also **prayed** to God for the people.
+  ***[[:kiu:obs:notes:frames:38-11|[38-11]]]**  Jesus told his disciples to **pray** that they would not enter into temptation.
+  ***[[:kiu:obs:notes:frames:43-13|[43-13]]]** The disciples continually listened to the teaching of the apostles, spent time together, ate together, and **prayed** with each other.
+  ***[[:kiu:obs:notes:frames:49-18|[49-18]]]**  God tells you to **pray**, to study his word, to worship him with other Christians, and to tell others what he has done for you. 
+
+~~DISCUSSION~~
+
+
+{{tag>publish ktobs}}
+
+~~NOCACHE~~

@@ -1,0 +1,35 @@
+====== persecute, persecution ======
+
+
+===== Definition: =====
+
+The terms "persecute" and "persecution" refer to continually treating a person or a certain group of people in a harsh way that causes harm to them.
+
+    * Persecution can be against one person or many people and usually involves repeated, persistent attacks.
+    * The Israelites were persecuted by many different people groups Who attacked them, captured them, and stole things from them.
+    * People often persecute other people who have different religious beliefs or who are weaker.
+    * The Jewish religious leaders persecuted Jesus because they did not like what he was teaching.
+    * After Jesus went back to heaven, the Jewish religious leaders and the Roman government persecuted his followers.
+    * The term "persecute" could also be translated as "keep oppressing" or "treat harshly" or "continually mistreat."
+    * Ways to translate "persecution" could include,  "harsh mistreatment" or "oppression" or "persistent hurtful treatment"
+
+(See also: [[:kiu:obe:kt:christian]], [[:kiu:obe:kt:church]], [[jewishleaders]], [[:kiu:obe:kt:oppress]], [[:kiu:obe:other:rome]])
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?persecute&nocomments}}
+
+
+===== Examples from the Bible stories: =====
+
+    * **[[:kiu:obs:notes:frames:33-07|[33-07]]]** "The rocky ground is a person who hears God's word and accepts it with joy. But when he experiences hardship or **persecution**, he falls away."
+    * **[[:kiu:obs:notes:frames:45-06|[45-06]]]** That day many people in Jerusalem started **persecuting** the followers of Jesus, so the believers fled to other places. 
+    * **[[:kiu:obs:notes:frames:46-02|[46-02]]]** Saul heard someone say, "Saul! Saul! Why do you **persecute** me?" Saul asked, "Who are you, Master?" Jesus replied to him, "I am Jesus. You are **persecuting** me!"
+    * **[[:kiu:obs:notes:frames:46-04|[46-04]]]** But Ananias said, "Master, I have heard how this man has **persecuted** the believers."
+
+~~DISCUSSION~~
+
+{{tag>publish ktobs}}
+
+~~NOCACHE~~

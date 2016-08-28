@@ -1,0 +1,22 @@
+====== Malachi ======
+
+===== Facts: =====
+
+Malachi was one of God's prophets to the kingdom of Judah. He lived around 500 years before Christ was on earth.
+
+  * Malachi prophesied during the period when Israel's temple was being rebuilt after returning from the Babylonian captivity.
+  * Ezra and Nehemiah lived around the same time as Malachi.
+  * The book of Malachi is the last book of the Old Testament.
+  * Like all the Old Testament prophets, Malachi urged the people to repent of their sins and to turn back to worshiping Yahweh.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:other:babylon]], [[:kiu:obe:other:captive]], [[:kiu:obe:other:ezra]], [[:kiu:obe:other:kingdomofjudah]],[[:kiu:obe:other:nehemiah]], [[:kiu:obe:kt:prophet]], [[:kiu:obe:kt:repent]], [[:kiu:obe:kt:turn]])
+
+===== Bible References: =====
+
+{{topic>malachi&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

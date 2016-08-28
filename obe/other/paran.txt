@@ -1,0 +1,23 @@
+====== Paran ======
+
+===== Facts: =====
+
+Paran was a desert or wilderness area east of Egypt and south of the land of Canaan. There was also a Mount Paran, which may have been another name for Mount Sinai.
+
+  * The slave Hagar and her son Ishmael went to live in the wilderness of Paran after Sarah ordered Abraham to send them away.
+  * When Moses led the Israelites out of Egypt, they passed through the wilderness of Paran.
+  * It was from Kadesh-Barnea in the wilderness of Paran that Moses sent twelve men to spy out the land of Canaan and bring back a report.
+  * The wilderness of Zin was north of Paran and the wilderness of Sin was south of Paran.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also:  [[:kiu:obe:other:canaan]], [[:kiu:obe:other:desert]], [[:kiu:obe:other:egypt]], [[:kiu:obe:other:kadesh]], [[:kiu:obe:other:sinai]])
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?paran&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

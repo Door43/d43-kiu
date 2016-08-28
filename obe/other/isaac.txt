@@ -1,0 +1,39 @@
+====== Isaac ======
+
+
+===== Facts: =====
+
+
+Isaac was the only son of Abraham and Sarah. God had promised to give them a son even though they were very old.
+
+    * The name "Isaac" means "he laughs." When God told Abraham that Sarah would give birth to a son, Abraham laughed because they were both very old. Some time later, Sarah also laughed when she heard this news.
+    * But God fulfilled his promise and Isaac was born to Abraham and Sarah in their old age.
+    * God told Abraham that the covenant he had made with Abraham would also be for Isaac and his descendants forever.
+    * When Isaac was a youth, God tested Abraham's faith by commanding him to sacrifice Isaac.
+    * Isaac's son Jacob had twelve sons whose descendants later became the twelve tribes of the nation of Israel.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names]])
+
+(See also: [[:kiu:obe:other:abraham]], [[:kiu:obe:other:descendant]], [[:kiu:obe:kt:forever]], [[:kiu:obe:kt:fulfill]], [[:kiu:obe:other:jacob]], [[:kiu:obe:other:sarah]], [[:kiu:obe:other:12tribesofisrael]])
+
+
+===== Bible References: =====
+
+
+{{topic>:en:bible?isaac&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  ***[[:kiu:obs:notes:frames:05-04|[05-04]]]** "Your wife, Sarai, will have a son—he will be the son of promise. Name him **Isaac**."
+  ***[[:kiu:obs:notes:frames:05-06|[05-06]]]** When **Isaac** was a young man, God tested Abraham's faith by saying, "Take **Isaac**, your only son, and kill him as a sacrifice to me."
+  ***[[:kiu:obs:notes:frames:05-09|[05-09]]]** God had provided the ram to be the sacrifice instead of **Isaac**.
+  ***[[:kiu:obs:notes:frames:06-01|[06-01]]]** When Abraham was very old and his son, **Isaac**, had grown to be a man, Abraham sent one of his servants back to the land where his relatives lived to find a wife for his son, **Isaac.** 
+  ***[[:kiu:obs:notes:frames:06-05|[06-05]]]** **Isaac** prayed for Rebekah, and God allowed her to get pregnant with twins.
+  ***[[:kiu:obs:notes:frames:07-10|[07-10]]]** Then **Isaac** died, and Jacob and Esau buried him. The covenant promises God had promised to Abraham and then to **Isaac** now passed on to Jacob.
+
+~~DISCUSSION~~
+
+
+{{tag>publish ktobs}}
+
+~~NOCACHE~~

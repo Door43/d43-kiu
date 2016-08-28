@@ -1,0 +1,19 @@
+====== heifer ======
+
+===== Definition: =====
+
+A heifer is an adult female cow that has not yet given birth to a calf.
+
+(See: [[:kiu:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+
+(See also: [[:kiu:obe:other:cow]])
+
+
+
+===== Bible References: =====
+
+{{topic>:en:bible?heifer&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

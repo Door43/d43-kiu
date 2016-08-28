@@ -1,0 +1,21 @@
+====== Iconium ======
+
+===== Facts: =====
+
+Iconium was a city in the south central part of what is now the country of Turkey.
+
+  * On Paul's first missionary journey, he and Barnabas went to Iconium after the Jews forced them to leave the city of Antioch.
+  * Then the unbelieving Jews and Gentiles in Iconium also planned to stone Paul and his coworkers, but they escaped to the nearby city of Lystra.
+  * After that the people from both Antioch and Iconium came to Lystra and stirred up the people there to stone Paul.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[antioch|Antioch]], [[:kiu:obe:other:barnabas]], [[lystra|Lystra]], [[:kiu:obe;other:stone]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?iconium&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

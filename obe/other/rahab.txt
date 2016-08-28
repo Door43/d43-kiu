@@ -1,0 +1,30 @@
+====== Rahab ======
+
+
+===== Facts: =====
+
+Rahab was a woman who lived in Jericho when Israel attacked the city. She was a prostitute.
+
+  * Rahab hid the two Israelites who came to spy on Jericho before the Israelites attacked it. She helped the spies escape back to the Israelite camp.
+  * Rahab became a believer in Yahweh.
+  * She and her family were spared when Jericho was destroyed and they all came to live with the Israelites.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names]])
+
+(See also: [[:kiu:obe:other:israel]], [[:kiu:obe:other:jericho]], [[:kiu:obe:other:prostitute]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?rahab&nocomments}}
+
+
+===== Examples from the Bible stories: =====
+
+  ***[[:kiu:obs:notes:frames:15-01|[15-01]]]** In that city there lived a prostitute named **Rahab** who hid the spies and later helped them to escape. She did this because she believed God. They promised to protect **Rahab** and her family when the Israelites would destroy Jericho. 
+  ***[[:kiu:obs:notes:frames:15-05|[15-05]]]** The Israelites destroyed everything in the city as God had commanded. **Rahab** and her family were the only people in the city that they did not kill. They became part of the Israelites. 
+
+~~DISCUSSION~~
+
+
+{{tag>publish ktobs}}
+

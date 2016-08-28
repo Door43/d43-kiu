@@ -1,0 +1,23 @@
+====== Priscilla ======
+
+===== Facts: =====
+
+Priscilla and her husband Aquila were Jewish Christians who worked with the apostle Paul in his missionary work.
+
+  * Priscilla and Aquila had left Rome because the emperor had forced the Christians to leave there.
+  * Paul met Aquila and Priscilla in Corinth. They were tentmakers and Paul joined them in this work.
+  * When Paul left Corinth to go to Syria, Priscilla and Aquila went with him.
+  * From Syria, the three of them went to Ephesus. When Paul left Ephesus, Priscilla and Aquila stayed behind and continued the work of preaching the gospel there.
+  * They especially taught a man named Apollos in Ephesus who believed in Jesus and was a gifted speaker and teacher.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[aquila|Aquila]], [[:kiu:obe:kt:believe]], [[:kiu:obe:kt:christian]], [[:kiu:obe:other:corinth]], [[:kiu:obe:other:ephesus]], [[:kiu:obe:other:paul]], [[:kiu:obe:other:rome]], [[:kiu:obe:other:syria]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?priscilla&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

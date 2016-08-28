@@ -1,0 +1,22 @@
+====== Job ======
+
+===== Facts: =====
+
+Job was a man who is described in the Bible as blameless and righteous before God. He is best known for persevering in his faith in God through times of terrible suffering.
+
+  * Job lived in the land of Uz, which was located somewhere east of the land of Canaan, possibly near the region of the Edomites.
+  * It is thought that he lived some time during the time of Esau and Jacob because one of his friends was a "Temanite" which was a people group named after Esau's grandson.
+  * The Old Testament book of Job tells about how Job and others responded to his suffering. It also gives God's viewpoint as the sovereign creator and ruler of the universe.
+  * After all the disasters, God eventually healed Job and gave him more children and wealth.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:other:abraham|Abraham, Abram]], [[:kiu:obe:other:esau], [[:kiu:obe:other:flood]], [[:kiu:obe:other:jacob]][[:kiu:obe:other:noah|Noah]],  [[:kiu:obe:other:temanite]], [[:kiu:obe:other:uz]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?job&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish review ktlink}}

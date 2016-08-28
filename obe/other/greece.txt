@@ -1,0 +1,22 @@
+====== Greece ======
+
+===== Facts: =====
+
+During New Testament times, Greece was a province in the Roman Empire.
+
+  * Like the modern-day country of Greece, it was located on a peninsula that is bordered by the Mediterranean Sea, Aegean Sea, and Ionian Sea.
+  * The apostle Paul visited several cities in Greece and established churches in the cities of Corinth, Thessalonica, and Phillipi and probably others.
+  * People who are from Greece are called "Greeks" and their language is "Greek." People from other Roman provinces also spoke Greek, including many Jews.
+  * Sometimes the term "Greek" is used to refer to a Gentile.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:other:corinth|Corinth, Corinthians]], [[:kiu:obe:other:gentile]], [[:kiu:obe:other:greek|Greek, Grecian, Hellenistic]], [[:kiu:obe:other:hebrew|Hebrew]],[[:kiu:obe:other:philippi|Philippi]], [[:kiu:obe:other:thessalonica|Thessalonica, Thessalonians]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?greece&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

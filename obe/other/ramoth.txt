@@ -1,0 +1,22 @@
+====== Ramoth ======
+
+===== Facts: =====
+
+Ramoth was an important city in the mountains of Gilead near the Jordan River. It was also called Ramoth Gilead.
+
+  * Ramoth belonged to the Israelite tribe of Gad and was designated as a city of refuge.
+  * King Ahab of Israel and King Jehoshaphat of Judah waged war against the king of Aram at Ramoth. Ahab was killed in that battle.
+  * Sometime later, King Ahaziah and King Joram tried to take the city of Ramoth from the king of Aram.
+  * Ramoth Gilead was where Jehu was anointed king over Israel.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:kiu:obe:other:ahab]], [[:kiu:obe:other:ahaziah]],  [[:kiu:obe:other:aram]], [[:kiu:obe:other:gad]], [[:kiu:obe:other:jehoshaphat]], [[:kiu:obe:other:jehu]], [[:kiu:obe:other:joram]], [[:kiu:obe:other:jordanriver]], [[:kiu:obe:other:kingdomofjudah]], [[:kiu:obe:kt:refuge]])
+
+===== Bible References: =====
+
+{{topic>Ramoth&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

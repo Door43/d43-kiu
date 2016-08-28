@@ -1,0 +1,20 @@
+====== Japheth ======
+
+===== Facts: =====
+
+Japheth was one of Noah's three sons.
+
+  * During the worldwide flood that covered the whole earth, Japheth and his two brothers were with Noah in the ark, along with their wives.
+  * Noah's sons are usually listed in the order, "Shem, Ham, and Japheth." This indicates that Japheth was the youngest brother.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:other:ark]], [[:kiu:obe:other:flood]], [[:kiu:obe:other:ham]], [[:kiu:obe:other:noah]], [[:kiu:obe:other:shem]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?japheth&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

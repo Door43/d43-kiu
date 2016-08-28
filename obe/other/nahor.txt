@@ -1,0 +1,21 @@
+====== Nahor ======
+
+===== Facts: =====
+
+Nahor was the name of two relatives of Abraham: his grandfather and his brother.
+
+  * Abraham's brother Nahor was the grandfather of Isaac's wife Rebekah.
+  * The phrase "city of Nahor" could mean,  "the city named Nahor" or "the city where Nahor had lived" or "Nahor's city." 
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:other:abraham]], [[:kiu:obe:other:rebekah]])
+
+
+===== Bible References: =====
+
+{{topic>nahor&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,22 @@
+====== Cornelius ======
+
+===== Facts: =====
+
+Cornelius was a Gentile, or non-Jewish man, who was a military officer in the Roman army.
+
+  * He prayed regularly to God and was very generous in giving to the poor.
+  * When Cornelius and his family heard the apostle Peter explain the gospel, they became believers in Jesus.
+  * The people of Cornelius' household were the first non-Jewish people to become believers.
+  * This showed Jesus' followers that he had come to save all people, including Gentiles.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:kt:apostle]], [[:kiu:obe:kt:believer]], [[:kiu:obe:other:gentile]], [[:kiu:obe:kt:goodnews]], [[:kiu:obe:other:greek]], [[:kiu:obe:other:centurion]] )
+
+===== Bible References: =====
+
+{{topic>:en:bible?cornelius&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

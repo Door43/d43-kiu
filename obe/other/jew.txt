@@ -1,0 +1,27 @@
+====== Jew, Jewish, Jews ======
+
+===== Facts: =====
+
+Jews are people who are descendants of Abraham's grandson, Jacob. The word "Jew" comes from the word "Judah."
+
+  * People began to call the Israelites "Jews" after they returned to Judah from their exile in Babylon.
+  * Jesus the Messiah was Jewish. However, the Jewish religious leaders rejected Jesus and demanded that he be killed.
+  * Often the phrase "the Jews" refers to the leaders of the Jews, not all the Jewish people. In those contexts, some translations add "leaders of" to make this clear.
+
+(See also: [[:kiu:obe:other:abraham]], [[:kiu:obe:other:jacob]], [[:kiu:obe:other:israel]], [[:kiu:obe:other:babylon]], [[:kiu:obe:other:jewishleaders]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?jew&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:kiu:obs:notes:frames:20-11|[20-11]]]** The Israelites were now called **Jews**  and most of them had lived their whole lives in Babylon.
+  * **[[:kiu:obs:notes:frames:20-12|[20-12]]]** So, after seventy years in exile, a small group of **Jews**  returned to the city of Jerusalem in Judah.
+  * **[[:kiu:obs:notes:frames:37-10|[37-10]]]** Many of the **Jews**  believed in Jesus because of this miracle.
+  * **[[:kiu:obs:notes:frames:37-11|[37-11]]]** But the religious leaders of the **Jews**  were jealous, so they gathered together to plan how they could kill Jesus and Lazarus.
+  * **[[:kiu:obs:notes:frames:40-02|[40-02]]]** Pilate commanded that they write, "King of the **Jews**" on a sign and put it on the cross above Jesus' head.
+  * **[[:kiu:obs:notes:frames:46-06|[46-06]]]** Right away, Saul began preaching to the **Jews**  in Damascus, saying, "Jesus is the Son of God!"
+~~DISCUSSION~~{{tag>publish ktobs}}
+
+~~NOCACHE~~

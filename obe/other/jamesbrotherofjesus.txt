@@ -1,0 +1,19 @@
+====== James (brother of Jesus) ======
+
+===== Facts: =====
+
+James was a son of Mary and Joseph. He was one of Jesus' younger half-brothers.
+
+  * Jesus' other half-brothers were named Joseph, Judas, and Simon.
+  * During Jesus' lifetime, James and his brothers did not believe that Jesus was the Messiah.
+  * Later, after Jesus was raised from the dead, James believed in him and became a leader of the church in Jerusalem.
+  * The New Testament book of James is a letter that James wrote to Christians who had fled to other countries to escape persecution.
+
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names]])
+
+(See also: [[:kiu:obe:kt:apostle]], [[:kiu:obe:kt:christ]], [[:kiu:obe:kt:church]], [[:kiu:obe:other:judassonofjames], [[:kiu:obe:other:persecute]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?jamesbrotherofjesus&nocomments}}~~DISCUSSION~~{{tag>publish review ktlink}}

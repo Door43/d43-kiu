@@ -1,0 +1,22 @@
+====== Haggai ======
+
+===== Facts: =====
+
+Haggai was a prophet of Judah during the time after the Jews returned home from being captives in Babylon.
+
+  * During the time period when Haggai was prophesying, King Uzziah was reigning over Judah.
+  * The prophet Zechariah was also prophesying during this time.
+  * Haggai and Zechariah exhorted the Jews to rebuild the temple, which had been destroyed by the Babylonians under King Nebuchadnezzar.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|Translate Names]])
+
+(See also: [[:kiu:obe:other:babylon]], [[:kiu:obe:other:kingdomofjudah]], [[:kiu:obe:other:nebuchadnezzar]], [[:kiu:obe:other:uzziah]], [[:kiu:obe:other:zechariahot]])
+
+===== Bible References: =====
+
+{{topic>haggai&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+
+{{tag>publish}}

@@ -1,0 +1,22 @@
+====== Benjamin ======
+
+===== Facts: =====
+
+Benjamin was the youngest son born to Jacob and his wife Rachel. His name means, "son of my right hand."
+
+  * He and his older brother Joseph were the only children of Rachel, who died after Benjamin was born.
+  * The descendants of Benjamin became one of the twelve tribes of Israel.
+  * King Saul was from the Israelite tribe of Benjamin.
+  * The apostle Paul was also from the tribe of Benjamin.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:other:israel]], [[:kiu:obe:other:jacob]], [[:kiu:obe:other:josephot]], [[:kiu:obe:other:paul]], [[:kiu:obe:other:rachel]], [[:kiu:obe:other:12tribesofisrael]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?benjamin&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

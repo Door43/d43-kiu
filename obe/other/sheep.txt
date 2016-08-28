@@ -1,0 +1,27 @@
+====== sheep, ram, ewe ======
+
+===== Definition: =====
+
+A "sheep" is a medium-sized animal with four legs that has wool all over its body. The male sheep is called a "ram." The female sheep is called a "ewe."
+
+  * A baby sheep is called a "lamb."
+  * The Israelites often used sheep for sacrifices, especially males and young sheep.
+  * People eat meat from sheep and use their wool to make clothing and other things.
+  * Sheep are very trusting, weak, and timid. They are easily influenced to wander away. They need a shepherd to lead them, protect them, and provide them with food, water, and shelter.
+  * In the Bible, people are compared to sheep who have God as their shepherd.
+
+(Translation suggestions: [[en:ta:vol1:translate:translate_unknown|How to Translate Unknowns]])
+
+(See also: [[:kiu:obe:other:israel]], [[:kiu:obe:kt:lamb]], [[:kiu:obe:other:sacrifice]], [[:kiu:obe:other:shepherd]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?sheep&nocomments}}
+
+===== Examples from the Bible stories: =====
+
+  * **[[:kiu:obs:notes:frames:09-12|[09-12]]]** One day while Moses was taking care of his **sheep**, he saw a bush that was on fire.
+  * **[[:kiu:obs:notes:frames:17-02|[17-02]]]** David was a shepherd from the town of Bethlehem. At different times while he was watching his father's **sheep**, David had killed both a lion and a bear that had attacked the **sheep**.
+  * **[[:kiu:obs:notes:frames:30-03|[30-03]]]** To Jesus, these people were like **sheep**  without a shepherd.
+  * **[[:kiu:obs:notes:frames:38-08|[38-08]]]** Jesus said, "All of you will all abandon me tonight. It is written, 'I will strike the shepherd and all the **sheep**  will be scattered.'"
+~~DISCUSSION~~{{tag>publish ktobs}}

@@ -1,0 +1,21 @@
+====== Medes, Media ======
+
+===== Facts: =====
+
+Media was an ancient empire located east of Assyria and Babylonia, and north of Elam and Persia. The people who lived in the empire of Media were called "Medes."
+
+  * The Media empire covered parts of what are present-day Turkey, Iran, Syria, Iraq and Afghanistan.
+  * The Medes were closely associated with the Persians and the two empires joined forces to conquer the Babylonian empire.
+  * Babylonia was invaded by Darius the Mede during the time that the prophet Daniel was living there.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:other:assyria]], [[:kiu:obe:other:babylon]], [[:kiu:obe:other:cyrus]], [[:kiu:obe:other:daniel]],  [[:kiu:obe:other:darius]], [[:kiu:obe:other:elam]], [[:kiu:obe:other:persia]])
+
+===== Bible References: =====
+
+{{topic>mede&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}

@@ -1,0 +1,23 @@
+====== Jehoram ======
+
+===== Facts: =====
+
+Jehoram was the name of two different kings in the Old Testament.
+
+  * One King Jehoram ruled over the kingdom of Judah for eight years. He was the son of King Jehoshaphat.
+  * The other King Jehoram, also known as "Joram," ruled over the kingdom of Israel for twelve years. He was the son of King Ahab.
+  * Both Jehoram and Joram reigned during the time that the prophet Obadiah was prophesying.
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names]])
+
+(See also: [[:kiu:obe:other:ahab]], [[:kiu:obe:other:jehoshaphat]], [[:kiu:obe:other:joram]], [[:kiu:obe:other:judah]], [[:kiu:obe:other:kingdomofisrael]], [[:kiu:obe:other:obadiah]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?jehoram&nocomments}}
+
+~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish review}}

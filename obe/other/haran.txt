@@ -1,0 +1,22 @@
+====== Haran ======
+
+===== Facts: =====
+
+Haran was a younger brother of Abraham and the father of Lot.
+
+  * Haran was also the name of the town where Abram and his family lived for awhile on their journey from the city of Ur to the land of Canaan.
+  * A different man named Haran was a son of Caleb.
+  * A third man in the Bible named Haran was a descendant of Levi.
+  
+
+(Translation suggestions: [[:kiu:ta:vol1:translate:translate_names|How to Translate Names]])
+
+(See also: [[:kiu:obe:other:abraham]], [[:kiu:obe:other:caleb]], [[:kiu:obe:other:canaan]], [[:kiu:obe:other:levite]], [[:kiu:obe:other:Lot]], [[:kiu:obe:other:terah]], [[:kiu:obe:other:ur]])
+
+===== Bible References: =====
+
+{{topic>:en:bible?haran&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}
